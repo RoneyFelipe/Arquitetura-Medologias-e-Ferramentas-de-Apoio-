@@ -1,2 +1,2 @@
-# Arquitetura-Medologia-e-Ferramentas-de-apoio
+# Arquitetura-Metodologia-e-Ferramentas-de-apoio
 Atividades avaliativas
