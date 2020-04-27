@@ -1,2 +1,2 @@
-# Echo
-Alguns exercícios em Python
+# Arquitetura-Medologia-e-Ferramentas-de-apoio
+Atividades avaliativas
